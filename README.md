@@ -1,4 +1,4 @@
-# revshell_project
+# Revshell_Project
 ## script from attacker's side
 
 <p>&nbsp;</p>
@@ -62,3 +62,18 @@ cmd.close()
 s.close()
 ```
 
+<p>&nbsp;</p>
+
+### shell created from attacker's side
+<img src="Picture1.png">
+
+<p>&nbsp;</p>
+
+### command running on the victim's computer
+<img src="Picture2.png">
+
+<p>&nbsp;</p>
+
+### ipconfig 
+<img src="Picture3.png">
+          
