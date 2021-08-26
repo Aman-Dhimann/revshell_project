@@ -1,5 +1,5 @@
 # revshell_project
-## script from attcker's side
+## script from attacker's side
 
 <p>&nbsp;</p>
 
@@ -31,7 +31,7 @@ except:
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
-## script running on vitims side
+## script running on vitim's side
 
 ```
 bash
